@@ -9,8 +9,8 @@ Convolutional Neural Networks have been implemented to classify healthy and prob
 Download Dataset ALL_IDB2 from [Here](https://homes.di.unimi.it/scotti/all/)
 
 # Results
-![Result 1](/FirstLearn.JPG)
-![Result 2](/SecondLearn.JPG)
+![Result 1](/Results/FirstLearn.JPG)
+![Result 2](/Results/SecondLearn.JPG)
 
 # Reference
 * [Leukemia diagnosis in blood slides using transfer learning in CNNs and SVM for classification](https://www.sciencedirect.com/science/article/abs/pii/S0952197618301039)
