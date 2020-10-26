@@ -1,5 +1,7 @@
 # Introduction
-Convolutional Neural Networks have been implemented to classify healthy and probable lymphoblasts’ images. For improving the accuracy, combining and hybriding other methods took place.
+Convolutional Neural Networks have been implemented to classify healthy and probable lymphoblasts’ images. 
+
+For improving the accuracy, combining, hybriding, and other methods took place.
 
 # Requirement
 * Matlab > R2019b
